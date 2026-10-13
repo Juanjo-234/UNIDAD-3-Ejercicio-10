@@ -1,0 +1,2 @@
+Resolución del ejercicio N°10 de la unidad 3 de programación 2.
+El código implementa y prueba una clase en Java para gestionar billeteras virtuales, protegiendo los datos sensibles mediante encapsulamiento, controlando las transferencias simultáneas respecto al saldo y al límite diario, permitiendo modificar configuraciones únicamente bajo validación de titularidad y mostrando los resultados por consola.
